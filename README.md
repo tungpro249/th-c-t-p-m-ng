@@ -1,2 +1,2 @@
-# th-c-t-p-m-ng
+# thực tập
 tài liệu, word
