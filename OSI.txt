@@ -1,0 +1,9 @@
+			OSI							TCP/IP
+
+7:		tầng ứng dụng				      	|
+6:		tầng trình bày				      	|
+5:		tâng phiên				      	|	tầng ứng dụng
+4:		tầng vận chuyển	: gateway,ap,wireless         	|	tầng vận chuyển
+3:		tầng network		: router, firewall    	|	tầng network
+2:		tầng liên kết		: Bridge, switch, modem |	tầng network interface
+1:		tầng vật lý		: Repeater,Hub	      	|
